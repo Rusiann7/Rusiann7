@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rusiann7
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Web-design
+- 💞️ I’m looking to collaborate on Back-end Programming
 - 📫 How to reach me Rusiann7@protonmail.com
 - 😄 Pronouns: LG TV 4K OLED 240HZ GAMING MONITOR
 - ⚡ Fun fact: I like Nier
