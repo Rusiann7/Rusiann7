@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Back-end Development
 - 📫 How to reach me Rusiann7@protonmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like Nier
+- ⚡ Fun fact: PHP slave
 
 <!---
 Rusiann7/Rusiann7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
